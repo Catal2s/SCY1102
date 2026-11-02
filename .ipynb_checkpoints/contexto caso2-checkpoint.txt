@@ -1,0 +1,5 @@
+Una aseguradora de salud privada está interesada en analizar los factores que influyen en los costos anuales asociados a la atención médica de sus afiliados. La 
+organización dispone de datos históricos que incluyen información como edad, índice de masa corporal (IMC), historial de tabaquismo, número de hijos, región 
+en que reside el afiliado, entre otros antecedentes relevantes. 
+Aunque los costos médicos pueden variar considerablemente entre personas, la aseguradora busca comprender qué características parecen asociarse a un 
+mayor riesgo financiero. Esta información permitirá estimar presupuestos, mejorar la planificación del sistema y ofrecer programas preventivos más efectivos. 
